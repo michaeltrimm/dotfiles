@@ -15,8 +15,8 @@ understand [what it does](dotfiles). Seriously, **DON'T**!)
 
 | OS | Snippet |
 |:---:|:---|
-| OS X | `bash -c "$(curl -LsS https://raw.github.com/alrra/dotfiles/master/dotfiles)"` |
-| Ubuntu | `bash -c "$(wget -qO - https://raw.github.com/alrra/dotfiles/master/dotfiles)"` |
+| OS X | `bash -c "$(curl -LsS https://raw.github.com/michaeltrimm/dotfiles/master/dotfiles)"` |
+| Ubuntu | `bash -c "$(wget -qO - https://raw.github.com/michaeltrimm/dotfiles/master/dotfiles)"` |
 
 That's it! :sparkles:
 

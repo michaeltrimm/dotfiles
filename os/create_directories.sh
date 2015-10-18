@@ -5,7 +5,6 @@ cd "$(dirname "$BASH_SOURCE")" \
 
 declare -a DIRECTORIES=(
     "$HOME/archive"
-    "$HOME/Downloads/torrents"
 )
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
